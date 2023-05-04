@@ -3,7 +3,14 @@
 
 **Windows Service Manager App** is a utility to **Schedule Restart**/**Restart**/**Stop** Windows Services.
 
+* Scheduling Services to Restart.
 
+![Scheduling Services to Restart](https://raw.githubusercontent.com/benitin/windows-services-manager/main/public/img/01-scheduling-service-restart.png "Scheduling Services to Restart")
+
+
+* Managing Schedules
+
+![Managing Schedules](https://raw.githubusercontent.com/benitin/windows-services-manager/main/public/img/02-managing-schedules.png "Managing Schedules")
 
 
 
