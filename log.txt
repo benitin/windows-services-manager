@@ -1,0 +1,36 @@
+[INFO]: 2023-05-04 17:13:54 - DB: db.sqlite
+[INFO]: 2023-05-04 17:13:54 - Service Manager started!
+[INFO]: 2023-05-04 17:13:54 - Starting Services!
+[INFO]: 2023-05-04 17:13:54 - windows
+[INFO]: 2023-05-04 17:13:54 - Scheduling Services 0.....
+[INFO]: 2023-05-04 17:13:54 - Starting Web Server on http://localhost:3001
+[INFO]: 2023-05-04 17:23:53 - 1
+[INFO]: 2023-05-04 17:23:53 - Scheduling Power BI Report Server, Service Name PowerBIReportServer, At 17:45
+[INFO]: 2023-05-04 17:24:40 - 2
+[INFO]: 2023-05-04 17:24:40 - Scheduling SQL Server Engine, Service Name MSSQLSERVER, At 18:00
+[INFO]: 2023-05-04 17:26:18 - Stopping Service PowerBIReportServer
+[ERROR]: 2023-05-04 17:26:18 - Access is denied.
+[INFO]: 2023-05-04 17:26:42 - Stopping Service PowerBIReportServer
+[ERROR]: 2023-05-04 17:26:42 - Access is denied.
+[INFO]: 2023-05-04 17:27:13 - Stopping Service MSSQLSERVER
+[ERROR]: 2023-05-04 17:27:13 - Access is denied.
+[INFO]: 2023-05-04 17:27:32 - Service Manager stopped!
+[INFO]: 2023-05-04 17:29:01 - DB: db.sqlite
+[INFO]: 2023-05-04 17:29:01 - Service Manager started!
+[INFO]: 2023-05-04 17:29:01 - Starting Services!
+[INFO]: 2023-05-04 17:29:01 - windows
+[INFO]: 2023-05-04 17:29:01 - Scheduling Services 2.....
+[INFO]: 2023-05-04 17:29:01 - Scheduling Power BI Report Server, Service Name PowerBIReportServer, At 17:45
+[INFO]: 2023-05-04 17:29:01 - Scheduling SQL Server Engine, Service Name MSSQLSERVER, At 18:00
+[INFO]: 2023-05-04 17:29:01 - Starting Web Server on http://localhost:3001
+[INFO]: 2023-05-04 17:29:59 - Stopping Service PowerBIReportServer
+[INFO]: 2023-05-04 17:29:59 - Stoping Service PowerBIReportServer
+[INFO]: 2023-05-04 17:30:09 - Waiting for Stop Service Power BI Report Server, Seconds 10, State 3
+[INFO]: 2023-05-04 17:30:09 - Service PowerBIReportServer Stopped
+[INFO]: 2023-05-04 17:30:17 - Job Schedule 1 is Restarted!
+[INFO]: 2023-05-04 17:30:17 - Scheduling Reset Now Power BI Report Server, Service Name PowerBIReportServer, At 17:45
+[INFO]: 2023-05-04 17:30:17 - Executing Schedule Task PowerBIReportServer
+[INFO]: 2023-05-04 17:30:17 - Trying Start Service...... PowerBIReportServer!
+[INFO]: 2023-05-04 17:30:28 - Waiting for Start Service PowerBIReportServer, Seconds 10, State 2
+[INFO]: 2023-05-04 17:30:28 - Servicio PowerBIReportServer reiniciado
+[INFO]: 2023-05-04 17:44:52 - Service Manager stopped!
